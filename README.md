@@ -11,7 +11,7 @@ This repository contains various utility functions in Python such as sorting, ad
 Clone the Repository:
 
 1. Open your terminal and in the directory where you want to install this file, run the following command to clone the repository:
-'git clone git@github.com:Ndoria-hubs/python-fundamentals-codech.git'
+'git@github.com:Ndoria-hubs/python-fundamentals-codech.git'
 
 - Alternatively, use the source link from our repository: 'https://github.com/Ndoria-hubs/python-fundamentals-codech'
 
