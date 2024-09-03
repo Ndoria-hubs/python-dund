@@ -32,8 +32,8 @@ Alternatively, if Python is not installed, download and install it from the offi
 - Open a Python Interpreter:
 
 You can run Python code in an interpreter or script. To start the interpreter, run: 'python'
-Import and Use the Functions:
-* ensure you have created yu have creatde your pwn python file ( filename.py )
+
+- ensure you have created yu have creatde your pwn python file ( filename.py )
 
 - You can import the functions from the lib.py file and use them. For example:
 
