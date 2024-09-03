@@ -59,7 +59,7 @@ print(f"Addition Result: {result_add}")  # output = 15
 
 # is_even function 
 
-***checks whether a number is even or odd ***
+***checks whether a number is even or odd***
 
 result_check = is_even(4)
 print(f"Even Check Result: {result_check}")  # output = True
@@ -73,7 +73,7 @@ print(f"Factorial Result: {result_factorial}")  # ooutput = 24
 
 # reverse_string function
 
-***returns a string reversed backword *** 
+***returns a string reversed backword*** 
 
 string_to_reverse = reverse_string('hello')
 print(f"Reversed Result: {string_to_reveerse}")  # putput = 'olleh'
@@ -87,7 +87,7 @@ print(f"Vowel_count : {string_to_count_vowel}")  # output = 10
 
 # apply_decorator function
 
-***applies a decorator that prints 'Decorator applied' ***
+***applies a decorator that prints 'Decorator applied'***
 
 @apply_decorator
 def new_function_here():
@@ -106,14 +106,14 @@ print(f" Result: {list_sorted}")  # output: [('Mary, 16'), ('John', 20)]
 
 # merge_dicts function
 
-***merges 2 dictionaries and adds values for a repeated key ***
+***merges 2 dictionaries and adds values for a repeated key***
 
 try_merged_dict = merge_dicts(dictA, dictB)
 print(f" Result: {try_merged_dict}")   # output: dictA + dictB
 
 # Car class creation
 
-***Allows user to create a car with attr: model, model, year and display this info ***
+***Allows user to create a car with attr: model, model, year and display this info***
 
 car1 = Car('Mistubishi','outlander',2017)
 car1.display_info()  # output: make : Mistubishi
